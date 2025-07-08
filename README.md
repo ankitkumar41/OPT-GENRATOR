@@ -1,1 +1,3 @@
 # OPT-GENRATOR
+
+An OTP (One-Time Password) Generator & Verifier with 2FA/MFA (Two-Factor/Multi-Factor Authentication) system enhances security by requiring users to provide a temporary, time-sensitive code in addition to their regular credentials. The generator creates unique OTPs (via SMS, email, or authenticator apps), while the verifier checks their validity, ensuring only authorized access. This adds an extra layer of protection against unauthorized login, phishing, and credential theft, making it essential for securing sensitive accounts in banking, corporate systems, and online services.
